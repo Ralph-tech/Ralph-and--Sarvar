@@ -1,0 +1,59 @@
+body{
+  background-color: white;
+  font-family: 'Alata', sans-serif;
+}
+
+.container{
+background-color: rgb(235, 235, 235);
+}
+
+.main-section{
+  background-color:rgb(235, 235, 235);
+  width: 950px;
+  margin:auto;
+}
+
+.main-img{
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.main-img img{
+  width: 900px;
+ margin-left: 25px;
+}
+
+.main-img p{
+  width: 950px;
+  text-align: center;
+}
+
+.main-header{
+width: 500px;
+margin: auto;
+text-align: center;
+font-size: 25px;
+color: rgb(66, 66, 66);
+
+}
+
+.history{
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.history ul li{
+margin-top: 15px;
+  
+}
+
+.footer{
+  margin: auto;
+  width: 900px;
+  font-size:larger;
+}
+
+.history p{
+  text-align: center;
+}
